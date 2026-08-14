@@ -1,7 +1,7 @@
 # ADR 0003: Granularidade da Aplicação (Monolito Modular vs. Microsserviços)
 
-- **Status:** Em revisão — aguardando aprovação da Supervisão de Arquitetura e da área de Negócio.
-- **Data:** 14/08/2026
+- **Status:** Aprovado
+- **Data:** 2026-08-14
 
 ## Contexto
 Um e-commerce considerando os domínios de negócio de Gestão de Pedidos e Itens de Pedido. Avaliar a melhor estratégia de granularidade para o estágio atual do projeto.

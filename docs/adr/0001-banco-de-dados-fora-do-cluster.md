@@ -1,7 +1,7 @@
 # ADR 0001: Adoção de Banco de Dados Gerenciado (DBaaS) Externo ao Cluster
 
-- **Status:** Em revisão — aguardando aprovação da Supervisão de Arquitetura e da área de Negócio.
-- **Data:** 14/08/2026
+- **Status:** Aprovado
+- **Data:** 2026-08-14
 
 ## Contexto
 A aplicação de pedidos exige persistência dos dados além do ciclo de vida efêmero dos containers.  

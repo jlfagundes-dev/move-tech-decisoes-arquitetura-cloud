@@ -1,7 +1,7 @@
 # ADR 0002: Estratégia de Exposição do Serviço
 
-- **Status:** Em revisão — aguardando aprovação da Supervisão de Arquitetura e da área de Negócio.
-- **Data:** 14/08/2026
+- **Status:** Aprovado
+- **Data:** 2026-08-14
 
 ## Contexto
 O sistema precisa de um ponto de acesso externo estável e confiável para usuários e ferramentas de automação que precisam interagir com o serviço. Como os endereços IP dos Pods no Kubernetes são efêmeros e mudam constantemente, é obrigatório utilizar um recurso (service) que forneça uma entrada estática para o serviço.
